@@ -20,17 +20,12 @@
 10. Tem conta no _github_?
     Sim.
 
+11.  Se sim:
+    * Informe o nome do seu usuário no _github_;
+    tmarcorf
+    * Crie um repositório com o nome **cs-2022-1** e compartilhe com o professor. Meu usuário no _github_ é **gilmarioArantes**;
 
-  9.1.  Se sim:
-      * Informe o nome do seu usuário no _github_;
-        tmarcorf
-      * Crie um repositório com o nome **cs-2022-1** e compartilhe com o professor. Meu usuário no _github_ é **gilmarioArantes**;
-
-      9.2.  Se não:
-      *  Crie uma conta e informe o nome do seu usuário;
-      *  Crie um repositório com o nome **cs-2022-1** e compartilhe com o professor.Meu usuário no _github_ é **gilmarioArantes**;
-
-10. Você possui algum impedimento para trabalhar em equipe?
+12. Você possui algum impedimento para trabalhar em equipe?
     Não.
-11. Você possui equipamento adequado para a implementação das atividades relacionadas à disciplina? Atividades complementares, extra-classe.
+13. Você possui equipamento adequado para a implementação das atividades relacionadas à disciplina? Atividades complementares, extra-classe.
     Sim.
