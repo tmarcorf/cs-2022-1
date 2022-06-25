@@ -65,13 +65,6 @@ Responda as questões abaixo (exercite os comandos do git correspondentes). Lemb
 
 
 
-INSTRUÇÕES:
-
-1. No seu repositório pessoal, criar a pasta aula04.
-2. Commitar este arquivo respondido nesta pasta.
-3. A data limite para concluir esta tarefa é dia 07/06/2021, as 23h59min.
-
-
 
 
 
