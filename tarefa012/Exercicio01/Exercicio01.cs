@@ -15,7 +15,8 @@ namespace Tarefa12
 
         public int RealizeDivisaoDeNumeros()
         {
-	    return (PrimeiroNumero / SegundoNumero);
+	        return (PrimeiroNumero / SegundoNumero);
+        }
 	}
 
     public class Exercicio01
@@ -24,19 +25,19 @@ namespace Tarefa12
         {
             DivisorDeNumeros divisor = new DivisorDeNumeros(20, 0);
 
-	    try
+            try
             {
                 int resultado = divisor.RealizeDivisaoDeNumeros();
-		Console.Write("O resultado é: " + resultado);
+                Console.Write("O resultado é: " + resultado);
             }
             catch (DivideByZeroException)
             {
                 throw new ArithmeticException("Não é possível dividir um número por 0.");
             }
-	    catch (InputMismatchException)
-	    {
-		throw new InputMismatchException("O valor informado não é numérico");
-	    }
+            catch (InputMismatchException)
+            {
+                throw new InputMismatchException("O valor informado não é numérico");
+            }
         }
     }
 }
