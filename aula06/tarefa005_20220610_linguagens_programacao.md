@@ -2,7 +2,7 @@
 
 1. Elaborar um pesquisa sobre linguagens de programação, abordar de forma generalizada os aspectos de pelo menos 5 linguagens. Abordar de forma mais específica as características de uma linguagem de sua preferência. Pode ser uma das cinco ou não.
 
-#### C#
+#### *C#*
 
 Inicialmente, falarei um pouco sobre a linguagem C# que hoje, faz parte do ecossistema .NET Framework e .NET Core, plataforma de desenvolvimento de software da Microsoft. O C# (C Sharp) é uma linguagem de programação de alto nível criada em 2002 pela Microsoft para concorrer com o Java, também orientada à objetos o C# fornece recursos modernos para codificação de aplicações Web, Mobile, Desktop e também, projetos para Ciência de Dados.
 Uma das principais e mais conhecidas características do C# é o recurso "generics", que permite a pessoa desenvolvedora declarar, por exemplo, coleções de elementos que em um momento podem ser de um tipo e em outro momento, de outro tipo. A linguagem ainda conta com tipos anônimos, expressões de consulta, expressões lambda, métodos de extensão, entre outros.
