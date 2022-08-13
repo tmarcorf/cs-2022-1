@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.1.32228.430
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EnderecoProject", "Endereco\EnderecoProject.csproj", "{7A83D62A-10FD-4CE5-955C-261A91182D32}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EnderecoProject", "EnderecoProject\EnderecoProject.csproj", "{0BAFE440-7A0E-4C15-9CC6-11F3DEACDD41}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{7A83D62A-10FD-4CE5-955C-261A91182D32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{7A83D62A-10FD-4CE5-955C-261A91182D32}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{7A83D62A-10FD-4CE5-955C-261A91182D32}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{7A83D62A-10FD-4CE5-955C-261A91182D32}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0BAFE440-7A0E-4C15-9CC6-11F3DEACDD41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BAFE440-7A0E-4C15-9CC6-11F3DEACDD41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BAFE440-7A0E-4C15-9CC6-11F3DEACDD41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BAFE440-7A0E-4C15-9CC6-11F3DEACDD41}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

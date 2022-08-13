@@ -1,0 +1,238 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>EnderecoProject</name>
+    </assembly>
+    <members>
+        <member name="T:EnderecoProject.Entities.Bairro">
+            <summary>
+            Representa o Bairro.
+            </summary>
+        </member>
+        <member name="P:EnderecoProject.Entities.Bairro.ListaDeEnderecos">
+            <summary>
+            A lista de endereços do bairro.
+            </summary>
+        </member>
+        <member name="P:EnderecoProject.Entities.Bairro.Cidade">
+            <summary>
+            A cidade a qual o bairro pertence.
+            </summary>
+        </member>
+        <member name="T:EnderecoProject.Entities.Base.ObjetoComNome">
+            <summary>
+            Representa entidades com Nome.
+            </summary>
+        </member>
+        <member name="P:EnderecoProject.Entities.Base.ObjetoComNome.Nome">
+            <summary>
+            O nome da entidade.
+            </summary>
+        </member>
+        <member name="T:EnderecoProject.Entities.Cidade">
+            <summary>
+            Representa a Cidade.
+            </summary>
+        </member>
+        <member name="P:EnderecoProject.Entities.Cidade.ListaDeBairros">
+            <summary>
+            A lista de bairros da cidade.
+            </summary>
+        </member>
+        <member name="P:EnderecoProject.Entities.Cidade.Estado">
+            <summary>
+            O estado ao qual a cidade pertence.
+            </summary>
+        </member>
+        <member name="T:EnderecoProject.Entities.Endereco">
+            <summary>
+            Representa o Endereço.
+            </summary>
+        </member>
+        <member name="P:EnderecoProject.Entities.Endereco.Logradouro">
+            <summary>
+            O logradouro do endereço.
+            </summary>
+        </member>
+        <member name="P:EnderecoProject.Entities.Endereco.Numero">
+            <summary>
+            O Numero do endereço.
+            </summary>
+        </member>
+        <member name="P:EnderecoProject.Entities.Endereco.Complemento">
+            <summary>
+            O Complemento do endereço.
+            </summary>
+        </member>
+        <member name="P:EnderecoProject.Entities.Endereco.CEP">
+            <summary>
+            O CEP do endereço.
+            </summary>
+        </member>
+        <member name="P:EnderecoProject.Entities.Endereco.ListaDePessoasFisicas">
+            <summary>
+            A lista de pessoas físicas do endereço.
+            </summary>
+        </member>
+        <member name="P:EnderecoProject.Entities.Endereco.Bairro">
+            <summary>
+            O Bairro do endereço.
+            </summary>
+        </member>
+        <member name="T:EnderecoProject.Entities.Enums.EnumTipoEndereco">
+            <summary>
+            Representa os tipos de endereço.
+            </summary>
+        </member>
+        <member name="F:EnderecoProject.Entities.Enums.EnumTipoEndereco.COMERCIAL">
+            <summary>
+            O tipo comercial.
+            </summary>
+        </member>
+        <member name="F:EnderecoProject.Entities.Enums.EnumTipoEndereco.RESIDENCIAL">
+            <summary>
+            O tipo residencial.
+            </summary>
+        </member>
+        <member name="T:EnderecoProject.Entities.Enums.EnumTipoLogradouro">
+            <summary>
+            Representa os tipos de logradouro.
+            </summary>
+        </member>
+        <member name="F:EnderecoProject.Entities.Enums.EnumTipoLogradouro.ALAMEDA">
+            <summary>
+            O tipo ALAMEDA.
+            </summary>
+        </member>
+        <member name="F:EnderecoProject.Entities.Enums.EnumTipoLogradouro.AVENIDA">
+            <summary>
+            O tipo AVENIDA.
+            </summary>
+        </member>
+        <member name="F:EnderecoProject.Entities.Enums.EnumTipoLogradouro.MARGINAL">
+            <summary>
+            O tipo MARGINAL.
+            </summary>
+        </member>
+        <member name="F:EnderecoProject.Entities.Enums.EnumTipoLogradouro.RUA">
+            <summary>
+            O tipo RUA.
+            </summary>
+        </member>
+        <member name="F:EnderecoProject.Entities.Enums.EnumTipoLogradouro.RODOVIA">
+            <summary>
+            O tipo RODOVIA.
+            </summary>
+        </member>
+        <member name="F:EnderecoProject.Entities.Enums.EnumTipoLogradouro.VIA">
+            <summary>
+            O tipo VIA.
+            </summary>
+        </member>
+        <member name="F:EnderecoProject.Entities.Enums.EnumTipoLogradouro.VIELA">
+            <summary>
+            O tipo VIELA.
+            </summary>
+        </member>
+        <member name="F:EnderecoProject.Entities.Enums.EnumTipoLogradouro.TRAVESSA">
+            <summary>
+            O tipo TRAVESSA.
+            </summary>
+        </member>
+        <member name="T:EnderecoProject.Entities.Estado">
+            <summary>
+            Representa o estado.
+            </summary>
+        </member>
+        <member name="P:EnderecoProject.Entities.Estado.Sigla">
+            <summary>
+            A sigla do estado.
+            </summary>
+        </member>
+        <member name="P:EnderecoProject.Entities.Estado.ListaDeCidades">
+            <summary>
+            A lista de cidades  do estado.
+            </summary>
+        </member>
+        <member name="P:EnderecoProject.Entities.Estado.Pais">
+            <summary>
+            O Pais ao qual o estado pertence.
+            </summary>
+        </member>
+        <member name="T:EnderecoProject.Entities.Logradouro">
+            <summary>
+            Representa o logradouro.
+            </summary>
+        </member>
+        <member name="P:EnderecoProject.Entities.Logradouro.TipoDoLogradouro">
+            <summary>
+            O tipo de logradouro do logradouro.
+            </summary>
+        </member>
+        <member name="T:EnderecoProject.Entities.Pais">
+            <summary>
+            Representa o País.
+            </summary>
+        </member>
+        <member name="P:EnderecoProject.Entities.Pais.ListaDeEstados">
+            <summary>
+            A lista de estados do país.
+            </summary>
+        </member>
+        <member name="T:EnderecoProject.Entities.PessoaFisica">
+            <summary>
+            Representa a pessoa física.
+            </summary>
+        </member>
+        <member name="P:EnderecoProject.Entities.PessoaFisica.Sexo">
+            <summary>
+            O sexo da pessoa.
+            </summary>
+        </member>
+        <member name="P:EnderecoProject.Entities.PessoaFisica.DataNascimento">
+            <summary>
+            A data de nascimento da pessoa.
+            </summary>
+        </member>
+        <member name="P:EnderecoProject.Entities.PessoaFisica.Endereco">
+            <summary>
+            O endereço da pessoa.
+            </summary>
+        </member>
+        <member name="T:EnderecoProject.Interfaces.IEndereco">
+            <summary>
+            Representa a interface do componente de endereço.
+            </summary>
+        </member>
+        <member name="M:EnderecoProject.Interfaces.IEndereco.ConsultaPorCep(System.String)">
+            <summary>
+            Obtém um endereço com base no CEP.
+            </summary>
+            <param name="CEP">O CEP informado.</param>
+            <returns>O Endereço.</returns>
+        </member>
+        <member name="T:EnderecoProject.Persistence.IEnderecoImpl">
+            <summary>
+            Representa a implementação do componente de endereço.
+            </summary>
+        </member>
+        <member name="M:EnderecoProject.Persistence.IEnderecoImpl.ConsultaPorCep(System.String)">
+            <summary>
+            Obtém um endereço com base no CEP.
+            </summary>
+            <param name="CEP">O CEP informado.</param>
+            <returns>O Endereço.</returns>
+        </member>
+        <member name="T:EnderecoProject.Program">
+            <summary>
+            Classe de inicialização do programa.
+            </summary>
+        </member>
+        <member name="M:EnderecoProject.Program.Main(System.String[])">
+            <summary>
+            Ponto inicial de execução do programa.
+            </summary>
+            <param name="args">Os argumentos informados.</param>
+        </member>
+    </members>
+</doc>
