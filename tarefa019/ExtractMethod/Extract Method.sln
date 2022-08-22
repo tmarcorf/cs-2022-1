@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32804.467
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Extract Method", "Extract Method.csproj", "{11EDBAC3-CDBE-4ED3-AF0F-8F40D22428D0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{11EDBAC3-CDBE-4ED3-AF0F-8F40D22428D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11EDBAC3-CDBE-4ED3-AF0F-8F40D22428D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11EDBAC3-CDBE-4ED3-AF0F-8F40D22428D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11EDBAC3-CDBE-4ED3-AF0F-8F40D22428D0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BA0CDF3C-8705-45BE-9A8E-EDF4AF0A24A0}
+	EndGlobalSection
+EndGlobal
